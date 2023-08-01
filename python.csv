@@ -3,4 +3,4 @@ author,title,type,topics,link,notes
 "Anthony Shaw", "Write faster Python! Common performance anti patterns", "conference talk","Python performance", "https://www.youtube.com/watch?v=YY7yJHo0M5I",,
 "Anthony Shaw", "CPython Internals", "book",,"Very niche, deeps dive on the Python internals and development flow, most people won't benefit."
 "James Knigth", "Super Considered Harmful", "small blogpost", "Inheritance", "https://fuhm.net/super-harmful/", "Recommended for historic reasons.",
-"Raymond Hettinger", "Python's super Considered Super, "small blogpost", "Inheritance", "https://rhettinger.wordpress.com/2011/05/26/super-considered-super/", "Raymond's 'response' to James Knigth",
+"Raymond Hettinger", "Python's super Considered Super", "small blogpost", "Inheritance", "https://rhettinger.wordpress.com/2011/05/26/super-considered-super/", "Raymond's 'response' to James Knigth",
