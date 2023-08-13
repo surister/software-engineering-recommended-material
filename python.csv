@@ -1,6 +1,6 @@
 author,title,type,topics,link,notes
 "Anthony Shaw", "CPython Internals", "book", "Python meta - Core development",,"Very niche, deeps dive on the Python internals and development flow, most people won't benefit."
-"Anthony Shaw", "Why is Python slow", "conference talk, "Python Performance", "https://www.youtube.com/watch?v=I4nkgJdVZFA",
+"Anthony Shaw", "Write faster Python! Common performance anti patterns", "conference talk", "Python performance", "https://www.youtube.com/watch?v=YY7yJHo0M5I",
 "James Knigth", "Super Considered Harmful", "small blogpost", "Inheritance", "https://fuhm.net/super-harmful/", "Recommended for historic reasons."
 "Nathaniel J. Smith", "Trio: Async concurrency for mere mortals", "Conference talk", "Async programming", "https://www.youtube.com/watch?v=oLkfnc_UMcE", "State of the art async framework - recommended."
 "Raymond Hettinger", "Python's super Considered Super", "small blogpost", "Inheritance", "https://rhettinger.wordpress.com/2011/05/26/super-considered-super/", "Raymonds response to James Knigth"
