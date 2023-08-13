@@ -1,5 +1,5 @@
 author,title,type,topics,link,notes
-"Anthony Shaw", "Why is Python slow", "conference talk, "Python Performance", "https://www.youtube.com/watch?v=I4nkgJdVZFA",
+"Anthony Shaw", "Why is Python slow", "conference talk, "Python Performance", "https://www.youtube.com/watch?v=I4nkgJdVZFA"
 "Anthony Shaw", "Write faster Python! Common performance anti patterns", "conference talk", "Python performance", "https://www.youtube.com/watch?v=YY7yJHo0M5I"
 "Anthony Shaw", "CPython Internals", "book", "Python meta - Core development",,"Very niche, deeps dive on the Python internals and development flow, most people won't benefit."
 "James Knigth", "Super Considered Harmful", "small blogpost", "Inheritance", "https://fuhm.net/super-harmful/", "Recommended for historic reasons."
