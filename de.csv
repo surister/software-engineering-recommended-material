@@ -1,4 +1,4 @@
 author,title,type,topics,link,notes
-"Yaroslav Tkachenko", "Change Data Capture Is Still an Anti-pattern", "small blogpost", "Data Streaming", "https://streamingdata.substack.com/p/change-data-capture-is-still-an-anti",
-"Databricks Inc. et al.", "Photon: A Fast Query Engine for Lakehouse Systems", "paper", "Data Lakehouse", "https://people.eecs.berkeley.edu/~matei/papers/2022/sigmod_photon.pdf",
+"Yaroslav Tkachenko", "Change Data Capture Is Still an Anti-pattern", "small blogpost", "Data Streaming", "https://streamingdata.substack.com/p/change-data-capture-is-still-an-anti"
+"Databricks Inc. et al.", "Photon: A Fast Query Engine for Lakehouse Systems", "paper", "Data Lakehouse", "https://people.eecs.berkeley.edu/~matei/papers/2022/sigmod_photon.pdf"
 "Michael Armbrust et al.", "Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics", "paper", "Data Lakehouse", "https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf"
