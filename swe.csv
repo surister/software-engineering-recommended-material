@@ -4,3 +4,4 @@ author,title,type,topics,link,notes
 "John Ousterhout", "A PHILOSOPY OF SOFTWARE DESIGN", "book", "Sofware Design",,"I like it, Focusses a lot on 'complexity', I recommend it over 'Clean Code', great for Juniors-Mid but experienced people might not get too much from it"
 "Nicole Forsgren, PhD Jez Humble and Gene Kim", "ACCELERATE, Building and Scaling High Performing Technology Organizations", "book",,,
 "Dave Steffen", "The Science of Unit Tests", "conference talk", "Unit testing", "https://www.youtube.com/watch?v=FjwayiHNI1w", "Software testing as an analogy to experimental science, highly recommended."
+"Nathaniel J. Smith", "Notes on structured concurrency", "blog post", "Softare design, async", "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/", "Beautiful rea; analyses structures over time and proposes a new one (nurseries)"
